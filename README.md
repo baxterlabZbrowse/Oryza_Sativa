@@ -1,6 +1,6 @@
-# Oryza_Sativa
+# Oryza sativa v7.0
 
-This repository contains the necessary files to use Oryza Sativa in [Zbrowse] (https://github.com/baxterlabZbrowse/ZBrowse).
+This repository contains the necessary files to use Oryza sativa v7.0 in [Zbrowse] (https://github.com/baxterlabZbrowse/ZBrowse).
 
 ### Requirements
 
@@ -12,7 +12,7 @@ To use this data you must have [Zbrowse] (https://github.com/baxterlabZbrowse/ZB
 
 2. Unzip the file.
 
-3. Move `oryza_sativa.csv` to the main level of your Zbrowse directory.
+3. Move `oryza_sativa.csv` to the `annotations` folder in your Zbrowse directory.
 
 4. Move `oryza_sativa.txt` to the `organisms` folder in your Zbrowse directory.
 
@@ -20,6 +20,6 @@ To use this data you must have [Zbrowse] (https://github.com/baxterlabZbrowse/ZB
 
 ### Using the Data
 
-Oryza Sativa will now be added to your instance of ZBrowse. Most notably, it will appear 
+Oryza sativa will now be added to your instance of ZBrowse. Most notably, it will appear 
 in the dropdown menu of available organisms. All that is left to do is [upload] (http://media.wix.com/ugd/52737a_2a65d0deb3bd4da2b5c0190c0de343ca.pdf)
 your GWAS data and begin the analysis.
